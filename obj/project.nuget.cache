@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "YwZMRldPWnw=",
   "success": true,
   "projectFilePath": "E:\\Anya\\GB\\Csharp\\Практика\\Дз_к_семинарам\\Семинар1ДЗ\\Task_2\\Task_2.csproj",
+=======
+  "dgSpecHash": "keNIylqD1bw=",
+  "success": true,
+  "projectFilePath": "E:\\Anya\\GB\\Csharp\\Практика\\Семинары\\Seminar_01\\Seminar_01.csproj",
+>>>>>>> b9b2a9405b32ef8c028f39150605b7c65a25fe99
   "expectedPackageFiles": [],
   "logs": []
 }
